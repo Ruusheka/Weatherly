@@ -1,6 +1,6 @@
 # ⛅ Weatherly
 
-![Weatherly Banner](https://raw.githubusercontent.com/Ruusheka/Weatherly/main/assets/weatherly-banner.png)
+![Weatherly Banner](https://raw.githubusercontent.com/Ruusheka/Weatherly/main/assets/banner.png)
 
 > **Weatherly** is a real-time weather forecasting app that provides live temperature, humidity, and condition updates based on city names — all wrapped in a clean and simple interface. 🌍
 
@@ -22,7 +22,7 @@
 
 | Homepage | Weather Result |
 |----------|----------------|
-| ![Homepage](https://raw.githubusercontent.com/Ruusheka/Weatherly/main/assets/homepage.png) | ![Result](https://raw.githubusercontent.com/Ruusheka/Weatherly/main/assets/result.png) |
+| ![Homepage](https://raw.githubusercontent.com/Ruusheka/Weatherly/main/assets/pic.png) | ![Result](https://raw.githubusercontent.com/Ruusheka/Weatherly/main/assets/banner.png) |
 
 ---
 
